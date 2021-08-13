@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 clear
 clear
 rm $(pwd)/$0 &> /dev/null
